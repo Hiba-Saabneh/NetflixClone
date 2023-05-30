@@ -1,0 +1,383 @@
+/*index*/
+
+@media   ( max-width:430px){
+
+    .body1 .navbar {background-color:transparent;}
+    .body1 .navbar-brand{
+        width:40%;
+        margin-left: 0%;
+    }
+    .body1 .navbar-brand img{
+        width:100%;
+    }
+    .body1 .navbar-nav{
+        position: relative;
+  width:40%;
+ margin-left: 10%;
+    }
+    .body1  .btn{
+        height: 3rem;
+        width:45%;
+   margin-left: 60%;
+   font-size: 0.8rem;
+    }
+
+   
+    .body1  .nav-item{
+        position:absolute;
+        width:66%;
+         margin-left:-10%;
+         font-size: 0.85rem;
+         margin-right: 1rem;
+    }
+
+    
+/**enjoy section*/
+
+
+.story{
+    margin-top: 10%;
+}
+.story h2{
+font-weight: 400;
+    font-size:2rem;
+    padding-bottom: 1rem;
+
+}
+.story p{
+    font-size: 1.3rem;
+ 
+}
+.accordion-flush{
+width:100%;
+padding: 5%;
+margin: auto;
+}
+.drop , .contact .drop{
+    width: 130%;
+    margin-left:-7%;
+ 
+}
+/*Sign up*/
+.body3 .w-75{
+    width: 30%;
+    margin-left: 0%;
+}
+.body3 .w-100 {
+    width: 50%!important;
+}
+
+.body3 .navbar .sign-up{
+    position: absolute;
+     margin-right: 0%;
+     padding-top: 0%;
+}
+
+.body3 .login-content{
+    background-color: white;
+
+}
+.body3 .login-form  {
+    padding-right: 0%;
+}
+.body3 .login-content h1{
+    width: 90%;
+    font-size: 1.5rem;
+
+    margin-left: 1rem;
+}
+.body3 .login-content p{
+    width:80%;
+    margin-left: 1rem;
+   
+}
+
+.body3 .login-content .form-label{
+
+    margin-left: 1rem;
+}
+
+.body3 .login-content .btn{
+    width:85%;
+    margin-left: 1rem;
+margin-bottom: -150%;
+margin-top: -130%;
+}
+.body3 .login-content .form-control{
+    width: 120%;
+    margin-left: 1rem;
+}
+.body3 .contact p{
+    width: 200%;
+    
+}
+.body3 .nav-item{
+    width: 78%;
+}
+/*film section*/
+.body4 .navbar{
+    background-color:#222;
+}
+ .body4 .nav-item{
+   margin-left: 50%;
+  
+
+ }
+ .body4 #navbarSupportedContent{
+    background-color:#222;
+ }
+ .body4 .navbar-brand{
+    margin-left: 0%;
+ }
+.body4 .navbar-brand img{
+    width: 100%;
+}
+
+.body4 .content-head img{
+    width: 100%;
+    padding-bottom: 1rem;
+}
+
+
+.body4 .content-head p{
+    width:80%;
+}
+
+
+.body4 #fil{
+    width:50%;
+    padding-bottom: 0.5rem;
+    transition-duration: 0.5s;
+}
+
+
+
+
+
+
+}
+
+@media (min-width:320px)and ( max-width:345px){
+/*sign in*/
+
+.body2 .navbar{
+    background-color: transparent;
+}
+.body2 .navbar img{
+    width:0;
+    width:150%;
+}
+.login-content{
+    padding: 0%;
+    width: 100%;
+    height: 205%;
+    padding-bottom: 10rem;
+}
+.login-content .form-control{
+    width: 120%;
+    margin-right: 0rem;
+}
+.login-content .btn{
+   margin-left: 1.35rem;
+    width: 79%;
+margin-top: 8%;
+
+
+}
+
+}
+@media (min-width:380px)and ( max-width:430px){
+    .body2 .navbar{
+        background-color: transparent;
+    }
+    .body2 .navbar img{
+        width:150%;
+        padding-bottom: 2rem;
+    }
+    .login-content{
+   
+        padding: 0%;
+        width: 90%;
+        height: 120%;
+    }
+    .login-content .form-control{
+        width: 142%;
+        margin-right: 0rem;
+    }
+    .login-content .btn{
+       margin-left: 1.35rem;
+        width: 86%;
+    margin-top: 8%;
+    
+    }
+}
+
+
+@media (min-width:350px)and ( max-width:375px){
+
+/*sign in*/
+
+.body2 .navbar{
+    background-color: transparent;
+}
+.body2 .navbar img{
+    width:150%;
+}
+.login-content{
+    padding: 0%;
+    width: 90%;
+}
+.login-content .form-control{
+    width: 140%;
+    margin-right: -0.5rem;
+}
+.login-content .btn{
+   margin-left: 1.35rem;
+    width: 86%;
+margin-top: 8%;
+
+}
+}
+
+@media (min-width:700px )and (max-width:850px){
+
+    .body1 .navbar {background-color:transparent;}
+    .body1 .navbar-brand{
+        width:40%;
+        margin-left: 0%;
+    }
+    .body1 .navbar-brand img{
+        width:60%;
+    }
+    .body1 .navbar-nav{
+        position: relative;
+  width:40%;
+ margin-left: 5%;
+    }
+    .body1  .btn{
+        height: 3rem;
+        width:43%;
+   margin-left: 55%;
+   font-size: 1.2rem;
+    }
+
+   
+    .body1  .nav-item{
+        position:absolute;
+        width:60%;
+         margin-left:-10%;
+         font-size: 1.2rem;
+         margin-right: 1rem;
+         padding: 0.2rem;
+    }
+
+    /*enjoy section*/
+    .body1   .enjoy{
+        height: 50vh;
+
+    }
+    .accordion-flush{
+        width:100%;
+        padding: 5%;
+        margin: auto;
+        }
+        .drop , .contact .drop{
+            width: 100%;
+            margin-left:-55%;
+         
+        }
+
+        .body2 .navbar img{
+            width:0;
+            width:150%;
+        }
+
+        .body3 .login-content .form-label{
+  width:190%;
+            margin-left: 1rem;
+        }
+
+
+        /*sign in*/
+        .body3 .w-75{
+            width: 30%;
+            margin-left: 0%;
+        }
+        .body3 .w-100 {
+            width: 25%!important;
+        }
+        
+        .body3 .navbar .sign-up{
+            position: absolute;
+             margin-left: 83%;
+             padding-top: 0%;
+        }
+       .body2 .login-content{
+       
+            padding: 0%;
+            width: 80%;
+            height: 100%;
+            font-size: 1.6rem;
+        }
+        .body2 .login-content .form-control{
+            height: 3.5rem;
+            width: 230%;
+            margin-left: 1rem;
+        }
+        .body2 .login-content .btn{
+           margin-left: 2.5rem;
+            width: 82%;
+        margin-top: 8%;
+        
+        }
+        .body2 .login-content .form-label{
+           
+            width:190%;
+                      margin-left: 1rem;
+                  }
+
+
+                  /*film section*/
+.body4 .navbar{
+    background-color:#222;
+    height:6rem;;
+}
+ .body4 .nav-item {
+   margin-left: 50%;
+
+  
+
+ }
+ .body4 #navbarSupportedContent{
+    background-color:#222;
+ }
+ .body4 .navbar-brand{
+    margin-left: 0%;
+ }
+.body4 .navbar-brand img{
+    width: 100%;
+ 
+}
+
+.body4 .content-head img{
+    width: 100%;
+    padding-bottom: 1rem;
+    padding-top: 5rem;
+}
+
+
+.body4 .content-head p{
+    width:50%;
+    font-size: 1.5rem;
+}
+
+
+.body4 #fil{
+    width:50%;
+    padding-bottom: 1rem;
+    transition-duration: 0.5s;
+}
+
+
+
+}
